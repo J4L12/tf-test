@@ -4,6 +4,3 @@ resource "aws_vpc" "ehis" {
     name : "ehis"
   }
 }
-
-
-
